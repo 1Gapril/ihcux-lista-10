@@ -1,8 +1,8 @@
 # ihcux-lista-10
 # Trabalho feito em Dupla
 
- Lucas Henrique Miranda
- Gabriel Ferreira de Souza
+ # Lucas Henrique Miranda
+ # Gabriel Ferreira de Souza
 
 # Breve descrição da ideia: A ideia é de fazer login e observar filas de estabelecimentos próximos, no exemplo o cineart. Demonstrando também tempo médio de fila e logo após avaliação.
 
